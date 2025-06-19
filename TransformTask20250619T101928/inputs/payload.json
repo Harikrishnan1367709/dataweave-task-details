@@ -1,0 +1,1 @@
+[{"vehicleId": "V123", "vehicleType": "Truck", "mileage": 15000, "lastServiceDate": "2023-01-15", "status": "Active"}, {"vehicleId": "V124", "vehicleType": "Car", "mileage": 20000, "lastServiceDate": "2023-02-20", "status": "Inactive"}, {"vehicleId": "V125", "vehicleType": "Van", "mileage": 18000, "lastServiceDate": "2023-03-10", "status": "Active"}]
