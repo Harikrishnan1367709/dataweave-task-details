@@ -1,0 +1,21 @@
+%dw 2.0
+output application/csv
+
+/* Requirements:
+ * Validate and prepare the input JSON data
+ * Map each product to include a new field for the total value of the stock
+ * Calculate the total value by multiplying the price by the stock quantity
+ * Convert the product category to camel case
+ * Filter out any products that have a stock quantity less than 10
+ * Format the output as CSV with headers
+ *
+ * Expected Output:
+ * productId,productName,category,price,stock,value
+ * P001,Widget A,Electronics,29.99,150,4498.5
+ * P002,Widget B,Home Goods,19.99,200,3998.0
+ * P003,Widget C,Electronics,39.99,100,3999.0
+ * P004,Widget D,Home Goods,14.99,250,3747.5
+ * P005,Widget E,Electronics,49.99,50,2499.5
+ */
+---
+payload
