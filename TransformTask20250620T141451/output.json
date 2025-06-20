@@ -1,0 +1,6 @@
+ReservationId,CustomerName,TravelDate,Destination,Status,Price
+R001,Alice Johnson,2023-11-01,Paris,Confirmed,1200
+R003,Charlie Brown,2023-11-10,New_York,Confirmed,1500
+R005,Eva Green,2023-11-20,Sydney,Confirmed,2200
+R007,Grace Kelly,2023-11-30,Rome,Confirmed,1300
+R008,Hank Hill,2023-12-05,Madrid,Confirmed,1400
