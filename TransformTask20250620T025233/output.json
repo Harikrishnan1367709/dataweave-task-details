@@ -1,0 +1,5 @@
+SubscriptionId,CustomerName,Plan,StartDate,EndDate,Status,Renewal
+S001,Alice Johnson,Basic,2023-01-01,2023-12-31,Active,Auto
+S004,Diana Prince,Premium,2023-04-05,2024-04-04,Active,Auto
+S006,Fiona Lee,Premium,2023-06-12,2024-06-11,Active,Auto
+S008,Hannah Clark,Premium,2023-08-15,2024-08-14,Active,Auto
