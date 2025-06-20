@@ -1,0 +1,23 @@
+<Reservations>
+  <Reservation>
+    <ReservationId>101</ReservationId>
+    <CustomerName>John Doe</CustomerName>
+    <CheckInDate>2023-11-01</CheckInDate>
+    <CheckOutDate>2023-11-05</CheckOutDate>
+    <RoomType>Deluxe</RoomType>
+  </Reservation>
+  <Reservation>
+    <ReservationId>102</ReservationId>
+    <CustomerName>Jane Smith</CustomerName>
+    <CheckInDate>2023-11-02</CheckInDate>
+    <CheckOutDate>2023-11-06</CheckOutDate>
+    <RoomType>Standard</RoomType>
+  </Reservation>
+  <Reservation>
+    <ReservationId>103</ReservationId>
+    <CustomerName>Alice Johnson</CustomerName>
+    <CheckInDate>2023-11-03</CheckInDate>
+    <CheckOutDate>2023-11-07</CheckOutDate>
+    <RoomType>Suite</RoomType>
+  </Reservation>
+</Reservations>
