@@ -1,0 +1,1 @@
+<transactions> <account id="123456"> <balance>500</balance> <deposits>800</deposits> <withdrawals>300</withdrawals> </account> <account id="654321"> <balance>1100</balance> <deposits>1250</deposits> <withdrawals>150</withdrawals> </account> </transactions>
