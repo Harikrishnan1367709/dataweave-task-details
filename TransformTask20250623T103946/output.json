@@ -1,0 +1,3 @@
+patientId,name,diagnosis,medication,dosage
+PT1001,Robert Johnson,Hypertension,Lisinopril,10mg
+PT1002,Maria Garcia,Type 2 Diabetes,Metformin,500mg
