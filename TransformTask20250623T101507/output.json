@@ -1,0 +1,3 @@
+reservationId,customerName,destination,departureDate,returnDate,totalCost,paymentStatus,flightNumber,seatClass,baggageAllowance
+TRV001,John Doe,Paris,2023-06-15,2023-06-22,1200,Paid,AF123,Business,2 pieces
+TRV002,Jane Smith,Tokyo,2023-07-10,2023-07-20,1500,Pending,JL456,Economy,1 piece
