@@ -1,0 +1,26 @@
+<claims>
+  <claim>
+    <id>C001</id>
+    <policy>P1001</policy>
+    <date>2023-01-10</date>
+    <description>Windshield crack</description>
+    <cost>250</cost>
+    <status>Approved</status>
+  </claim>
+  <claim>
+    <id>C002</id>
+    <policy>P1002</policy>
+    <date>2023-02-15</date>
+    <description>Front bumper dent</description>
+    <cost>1200</cost>
+    <status>Pending</status>
+  </claim>
+  <claim>
+    <id>C003</id>
+    <policy>P1003</policy>
+    <date>2023-03-05</date>
+    <description>Side mirror broken</description>
+    <cost>350</cost>
+    <status>Rejected</status>
+  </claim>
+</claims>
