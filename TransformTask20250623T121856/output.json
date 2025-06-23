@@ -1,0 +1,4 @@
+transactionId,amount,currency,date,status
+txn001,1000.50,USD,2023-01-15,completed
+txn002,2500.75,EUR,2023-01-16,pending
+txn003,1500.25,GBP,2023-01-17,failed
