@@ -1,0 +1,1 @@
+{"headers":["Phone Number","Call Duration (minutes)","Call Date","Encoded Phone Number","Call Type"],"data":[["+1234567890",2,"2023-01-01","%2B1234567890","Short"],["+1987654321",5,"2023-01-02","%2B1987654321","Long"],["+1122334455",0.75,"2023-01-03","%2B1122334455","Short"]]}
