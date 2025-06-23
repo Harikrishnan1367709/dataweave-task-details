@@ -1,0 +1,5 @@
+studentId,name,courseId,courseName,grade
+S123,John Doe,C101,Mathematics,A
+S123,John Doe,C102,Science,B
+S124,Jane Smith,C101,Mathematics,A
+S124,Jane Smith,C103,History,C
