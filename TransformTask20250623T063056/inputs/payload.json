@@ -1,0 +1,1 @@
+[{"studentId": "S123", "name": "John Doe", "courses": [{"courseId": "C101", "courseName": "Mathematics", "grade": "A"}, {"courseId": "C102", "courseName": "Science", "grade": "B"}]}, {"studentId": "S124", "name": "Jane Smith", "courses": [{"courseId": "C101", "courseName": "Mathematics", "grade": "A"}, {"courseId": "C103", "courseName": "History", "grade": "C"}]}]
