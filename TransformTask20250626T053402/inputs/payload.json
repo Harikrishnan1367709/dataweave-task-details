@@ -1,0 +1,1 @@
+{"calls":[{"callId":"CALL001","callerNumber":"1234567890","receiverNumber":"0987654321","duration":"300","callDate":"2023-01-15"},{"callId":"CALL002","callerNumber":"1234567890","receiverNumber":"1122334455","duration":"150","callDate":"2023-01-16"},{"callId":"CALL003","callerNumber":"0987654321","receiverNumber":"1122334455","duration":"450","callDate":"2023-01-17"}]}
