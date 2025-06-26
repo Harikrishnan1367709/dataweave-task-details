@@ -1,0 +1,4 @@
+id,customer,plan,startDate,status
+SUB001,John Doe,Premium,2023-01-15,Active
+SUB002,Jane Smith,Basic,2023-02-20,Active
+SUB003,Bob Johnson,Premium,2023-03-10,Cancelled
