@@ -1,0 +1,4 @@
+id,amount,currency,description
+T1001,1500.00,USD,Online Purchase
+T1002,200.50,EUR,Grocery Store
+T1003,750.75,USD,Utility Bill
