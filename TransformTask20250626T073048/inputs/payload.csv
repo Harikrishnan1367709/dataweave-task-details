@@ -1,0 +1,4 @@
+vehicleId,make,model,year,lastServiceDate,mileage
+V001,Ford,Transit,2019,2023-01-15,45000
+V002,Toyota,HiAce,2020,2023-02-20,38000
+V003,Mercedes,Sprinter,2021,2023-03-10,30000
