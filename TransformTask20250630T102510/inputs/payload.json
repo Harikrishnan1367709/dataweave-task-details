@@ -1,0 +1,1 @@
+{"customers":[{"customerId":"C001","name":"John Doe","age":30,"purchases":5,"lastPurchaseDate":"2023-03-15"},{"customerId":"C002","name":"Jane Smith","age":25,"purchases":2,"lastPurchaseDate":"2023-04-01"},{"customerId":"C003","name":"Bob Johnson","age":40,"purchases":10,"lastPurchaseDate":"2023-02-20"}]}
