@@ -1,0 +1,1 @@
+{"weatherSummary":[{"stationId":"WS001","location":"New York","averageTemperature":32.33,"averageHumidity":77.67,"maxWindSpeed":20,"minWindSpeed":10},{"stationId":"WS002","location":"Los Angeles","averageTemperature":67.67,"averageHumidity":50,"maxWindSpeed":10,"minWindSpeed":5}]}
