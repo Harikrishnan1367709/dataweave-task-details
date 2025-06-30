@@ -1,0 +1,4 @@
+id,customer,destination,nights,status
+R001,John Doe,Paris,5,confirmed
+R002,Jane Smith,Tokyo,7,pending
+R003,Mike Johnson,New York,3,confirmed
