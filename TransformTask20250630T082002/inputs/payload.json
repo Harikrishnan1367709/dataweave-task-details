@@ -1,0 +1,1 @@
+{"transactions":[{"transactionId":"T1001","amount":150.75,"currency":"USD","status":"completed","date":"2023-04-10"},{"transactionId":"T1002","amount":200.5,"currency":"EUR","status":"pending","date":"2023-04-11"},{"transactionId":"T1003","amount":99.99,"currency":"GBP","status":"failed","date":"2023-04-12"}]}
