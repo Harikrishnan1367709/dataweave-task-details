@@ -1,0 +1,1 @@
+{"shipments":[{"shipmentId":"SH12345","origin":"Warehouse A","destination":"Retailer X","weight":1500,"status":"In Transit"},{"shipmentId":"SH12346","origin":"Warehouse B","destination":"Retailer Y","weight":2000,"status":"Delivered"},{"shipmentId":"SH12347","origin":"Warehouse C","destination":"Retailer Z","weight":1750,"status":"Processing"}]}
