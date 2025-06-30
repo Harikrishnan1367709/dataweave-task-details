@@ -1,0 +1,1 @@
+{"inventoryItems":[{"itemId":"A100","description":"Widget A","quantityInStock":45,"reorderThreshold":50},{"itemId":"B200","description":"Widget B","quantityInStock":15,"reorderThreshold":20},{"itemId":"C300","description":"Widget C","quantityInStock":60,"reorderThreshold":30}]}
