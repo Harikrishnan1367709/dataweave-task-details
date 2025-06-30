@@ -1,0 +1,1 @@
+{"transactions":[{"transactionId":"T1001","accountNumber":"ACC12345","amount":1500.75,"currency":"USD","transactionDate":"2023-04-01"},{"transactionId":"T1002","accountNumber":"ACC67890","amount":2500.5,"currency":"EUR","transactionDate":"2023-04-02"},{"transactionId":"T1003","accountNumber":"ACC13579","amount":3500.25,"currency":"GBP","transactionDate":"2023-04-03"}]}
