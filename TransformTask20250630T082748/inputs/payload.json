@@ -1,0 +1,1 @@
+{"reservations":[{"id":"R001","customer":"John Doe","destination":"Paris","nights":5,"status":"confirmed"},{"id":"R002","customer":"Jane Smith","destination":"Tokyo","nights":7,"status":"pending"},{"id":"R003","customer":"Mike Johnson","destination":"New York","nights":3,"status":"confirmed"}]}
