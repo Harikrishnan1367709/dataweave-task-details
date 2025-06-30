@@ -1,0 +1,1 @@
+{"campaigns":[{"id":"C001","name":"Summer Sale","channels":["email","social"],"budget":5000,"active":true},{"id":"C002","name":"Winter Promo","channels":["social","TV"],"budget":7500,"active":false},{"id":"C003","name":"Spring Clearance","channels":["email","TV","social"],"budget":6000,"active":true}]}
