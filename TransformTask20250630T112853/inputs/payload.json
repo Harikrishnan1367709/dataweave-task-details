@@ -1,0 +1,1 @@
+{"campaigns":[{"id":"C001","name":"Summer Sale","startDate":"2023-06-01","endDate":"2023-06-30","budget":5000,"status":"Active"},{"id":"C002","name":"Winter Promotion","startDate":"2023-12-01","endDate":"2023-12-31","budget":3000,"status":"Planned"},{"id":"C003","name":"Spring Clearance","startDate":"2023-03-01","endDate":"2023-03-31","budget":4000,"status":"Completed"}]}
