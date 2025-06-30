@@ -1,0 +1,4 @@
+reservationId,passengerName,flightNumber,departureDate,seatNumber,status
+R1001,John Doe,FL123,2023-11-15,A12,Confirmed
+R1002,Jane Smith,FL456,2023-11-16,B05,Pending
+R1003,Alice Johnson,FL789,2023-11-17,C20,Cancelled
