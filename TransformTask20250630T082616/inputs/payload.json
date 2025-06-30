@@ -1,0 +1,1 @@
+{"vehicles":[{"id":"V001","type":"Truck","status":"Active","mileage":45000,"lastServiceDate":"2023-01-15"},{"id":"V002","type":"Van","status":"Inactive","mileage":120000,"lastServiceDate":"2022-11-20"},{"id":"V003","type":"Truck","status":"Active","mileage":78000,"lastServiceDate":"2023-02-10"}]}
