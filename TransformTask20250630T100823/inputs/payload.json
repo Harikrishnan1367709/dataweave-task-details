@@ -1,0 +1,1 @@
+{"energyReadings":[{"meterId":"M001","timestamp":"2023-04-01T00:00:00Z","kWh":125.5,"location":"Floor 1"},{"meterId":"M002","timestamp":"2023-04-01T00:00:00Z","kWh":98.3,"location":"Floor 2"},{"meterId":"M003","timestamp":"2023-04-01T00:00:00Z","kWh":156.7,"location":"Floor 3"}]}
